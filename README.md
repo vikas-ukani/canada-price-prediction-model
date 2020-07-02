@@ -1,1 +1,1 @@
-# canada-price-prediction-model
+# Canada price prediction model
